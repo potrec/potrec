@@ -2,8 +2,8 @@
 
 - 🎂 21y old
 - 🔥 I'm not afraid of challenges!!!
-- 🔭 I’m currently working on mobile game called <a href ="https://play.google.com/store/apps/details?id=wizard.io"> "Wizardio"</a>
-- 🎩 I used to work as a web developer 
+- 🔭 Co-creator of <a href ="https://play.google.com/store/apps/details?id=wizard.io"> "Wizardio"</a>
+- 🎩 I used to work as a web/game developer 
 - 😏 <img src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="unity" width="15" height="15"/> enjoyer
 - 👶 Programming since middle school 
 - 👴 First code in Turbo pascal
@@ -16,7 +16,7 @@
 <table>
     <tbody>
       <tr>
-        <td>Intermediate</td>
+        <td>Intermediate/Using now</td>
         <td><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/></td>
         <td><img src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="c#" width="40" height="40"/#></td>
         <td><img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="html" width="40" height="40"/></td>
@@ -53,12 +53,9 @@
         <td><img src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" alt=".net" width="40" height="40"/></td>
       </tr>
       <tr>
-        <td>Learning/Using now</td>
-        <td><img src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png" alt="Vue" width="40" height="40"/></td>
-      </tr>
-      <tr>
         <td>I will check it out</td>
         <td><img src="https://user-images.githubusercontent.com/25181517/192599922-3a8ceb1c-ff1d-40bc-b73c-99ea1182d8ad.png" alt="Rust" width="40" height="40"/></td>
+        <td><img src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png" alt="Vue" width="40" height="40"/></td>
       </tr>
     </tbody>
 </table>
