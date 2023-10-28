@@ -1,10 +1,9 @@
-### Hi there 👋 my name is Maciej, I am a 3rd year student at the Lublin University of Technology, majoring in Computer Science.
+### Hi there 👋 my name is Maciej, I am a 4th year student at the Lublin University of Technology, majoring in Computer Science.
 
-- 🎂 21y old
+- 🎂 22y old
 - 🔥 I'm not afraid of challenges!!!
 - 🔭 Co-creator of <a href ="https://play.google.com/store/apps/details?id=wizard.io"> "Wizardio"</a>
 - 🎩 I used to work as a web/game developer 
-- 😏 <img src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="unity" width="15" height="15"/> enjoyer
 - 👶 Programming since middle school 
 - 👴 First code in Turbo pascal
 - 🧐 I'm interested in the newest technologies, space, politics, history and computer games
