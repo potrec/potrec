@@ -213,11 +213,14 @@
   align="left"
   style="padding: 0 20px 16px 0">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg"
+<img
+  src="https://api.iconify.design/vscode-icons:file-type-rust.svg"
   width="40"
   height="40"
   alt="RUST"
   style="padding: 0 20px 16px 0">
+  
+  
 
 <img 
   src="https://img.shields.io/badge/Technologies-%231f2937"
@@ -235,7 +238,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg"
   width="40"
   height="40"
-  alt="VUE"
+  alt="UNREAL"
   align="left"
   style="padding: 0 20px 16px 0">
 
