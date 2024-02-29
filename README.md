@@ -128,11 +128,7 @@
   alt="GODOT"
   align="left"
   style="padding: 0 20px 16px 0">](https://godotengine.org "Godot")
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg"
-  width="40"
-  height="40"
-  alt="DOTNET"
-  style="padding: 0 20px 16px 0">](https://learn.microsoft.com/en-us/dotnet/ ".NET")
+[<img width="40" height="40" alt=".NET" src="https://api.iconify.design/logos:dotnet.svg" style="padding: 0 20px 16px 0">](https://learn.microsoft.com/en-us/dotnet/ ".NET")
 
 ## Amateur
 
