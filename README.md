@@ -165,6 +165,12 @@
   alt="Technologies"
   align="left"
   style="padding: 0 20px 16px 0">
+  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
+  width="40"
+  height="40"
+  alt="VUEJS"
+  align="left"
+  style="padding: 0 20px 16px 0">](https://vuejs.org "Vue.js")
 [<picture align="left"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons:express.svg?color=%23000000" /><img align="left" width="40" height="40" alt="Express.js" src="https://api.iconify.design/simple-icons:express.svg?color=%23ffffff" style="padding: 0 20px 16px 0"/></picture>](https://expressjs.com "Express.js")
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
   width="40"
@@ -204,12 +210,7 @@
   alt="Technologies"
   align="left"
   style="padding: 0 20px 16px 0">
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
-  width="40"
-  height="40"
-  alt="VUEJS"
-  align="left"
-  style="padding: 0 20px 16px 0">](https://vuejs.org "Vue.js")
+
 [<picture align="left"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons:unrealengine.svg?color=%23000000" /><img align="left" width="40" height="40" alt="UNREALENGINE" src="https://api.iconify.design/simple-icons:unrealengine.svg?color=%23ffffff" style="padding: 0 20px 16px 0"/></picture>](https://www.unrealengine.com/en-US/ "Unreal Engine")
 
 <!--
