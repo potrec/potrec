@@ -1,6 +1,6 @@
 ### Hi there 👋 my name is Maciej, I am a 4th year student at the Lublin University of Technology, majoring in Computer Science.
 
-- 🎂 22y old
+- 🎂 23y old
 - 🔥 I'm not afraid of challenges!!!
 - 🔭 Co-creator of <a href ="https://play.google.com/store/apps/details?id=wizard.io"> "Wizardio"</a>
 - 🎩 I used to work as a web/game developer
